@@ -1,6 +1,6 @@
 # Política de privacidad de PDFine Notes
 
-Última actualización: 8 de noviembre de 2026
+Última actualización: 12 de noviembre de 2026
 
 ## Quiénes somos y a qué aplica
 
@@ -68,4 +68,4 @@ La aplicación **no** pide acceso a todos tus archivos, a la cámara, al micróf
 
 ## Contacto
 
-Kernovac Studio — <androiddevelopersupport@gmail.com>
+Kernovac Studio — <kernovacstudio@gmail.com>
