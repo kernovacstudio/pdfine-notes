@@ -10,10 +10,14 @@ PDFine Notes permite leer, anotar, crear y editar documentos PDF, y traducir su 
 
 ## Versión gratuita y PDFine Pro
 
-Las funciones básicas (leer, anotar, crear documentos, añadir páginas y buscar) son gratuitas. **PDFine Pro** es una compra única dentro de la aplicación que desbloquea funciones adicionales, como el traductor sin conexión y las herramientas de documentos. Puede incluir una prueba gratuita limitada.
+Las funciones básicas (leer, anotar, crear documentos, añadir páginas, buscar, y unir, comprimir, extraer o eliminar páginas) son gratuitas. **PDFine Pro** es una suscripción que desbloquea el traductor sin límites. Antes de suscribirte puedes probarlo gratis con una cantidad limitada de páginas y traducciones.
 
-- El pago, la facturación y los reembolsos los gestiona **Google Play**, según sus propias condiciones y políticas de reembolso.
-- La compra queda asociada a tu cuenta de Google y puedes restaurarla al reinstalar la aplicación con la misma cuenta.
+- **Planes:** mensual o anual. El precio de cada plan se muestra en la aplicación y en Google Play antes de confirmar.
+- **Renovación automática:** la suscripción se renueva sola al final de cada periodo y se cobra a tu método de pago de Google Play, salvo que la canceles antes.
+- **Cancelación:** puedes cancelarla cuando quieras desde Google Play (Pagos y suscripciones → Suscripciones). PDFine Pro seguirá activo hasta el final del periodo ya pagado.
+- **Pagos y reembolsos:** el cobro, la facturación y los reembolsos los gestiona **Google Play**, según sus propias condiciones y políticas de reembolso.
+- **Restaurar:** la suscripción queda asociada a tu cuenta de Google y se restaura al reinstalar la aplicación con la misma cuenta.
+- **Cambios de precio:** si cambiamos el precio, Google Play te avisará con anticipación según sus reglas, y podrás cancelar antes de que se aplique.
 - Las funciones incluidas en Pro pueden mejorar o ampliarse con el tiempo.
 
 ## Tus documentos
