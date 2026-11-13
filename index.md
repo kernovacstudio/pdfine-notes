@@ -14,8 +14,8 @@ La aplicación no tiene servidores propios ni envía información al desarrollad
 
 - No pide crear una cuenta ni iniciar sesión.
 - No muestra publicidad.
-- No usa herramientas de analítica ni de seguimiento.
-- No recopila tu nombre, correo, ubicación, contactos ni identificadores del dispositivo.
+- No usa herramientas de publicidad ni de seguimiento entre apps.
+- No recopila tu nombre, correo, ubicación ni contactos.
 - No vende ni comparte datos con terceros.
 
 ## Tus documentos
@@ -45,6 +45,10 @@ Puedes borrarlos cuando quieras: **Ajustes → Limpiar recientes** borra la list
 El traductor funciona **sin conexión**: el texto que traduces se procesa en tu teléfono y no se envía a ningún servicio. Para leer el texto que aparece dentro de imágenes, la aplicación usa el reconocimiento de texto de Google ML Kit, que también funciona dentro del teléfono.
 
 Para usarlo, la aplicación descarga una sola vez un paquete de idioma desde **Google Play**, con su sistema oficial de descargas. Esa descarga la gestiona Google y está sujeta a la [Política de Privacidad de Google](https://policies.google.com/privacy). La instalación y las actualizaciones de la app desde Google Play también se rigen por esa política.
+
+## Datos técnicos de diagnóstico (Google ML Kit)
+
+Para leer el texto que aparece dentro de imágenes, la aplicación usa Google ML Kit. Aunque el reconocimiento se hace en tu teléfono y **el contenido de tus documentos nunca se envía**, ML Kit transmite a Google datos técnicos para diagnóstico y análisis de uso: información del dispositivo (fabricante, modelo y versión del sistema), información de la aplicación (nombre del paquete y versión) y métricas de rendimiento (como el tiempo de procesamiento). Estos datos viajan cifrados, no se comparten con terceros y se rigen por la [Política de Privacidad de Google](https://policies.google.com/privacy). Más información: [divulgación de datos de ML Kit](https://developers.google.com/ml-kit/android-data-disclosure).
 
 ## Suscripción a PDFine Pro
 
